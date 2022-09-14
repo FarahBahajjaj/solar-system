@@ -1,0 +1,29 @@
+h3{
+    color: rgb(111, 141, 169);
+}
+h2{
+    color: rgb(111, 141, 169);
+}
+html{
+    font-family: 'Amiri', serif;
+    
+}
+  html{
+    background-color: #E7E2E1;
+  }
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #E2DCDB;
+    padding: 0 30px 30px 30px;
+    border: 5px solid rgb(44, 43, 43);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+ h1{
+  color: rgb(111, 141, 169);
+ }
+  
+  
